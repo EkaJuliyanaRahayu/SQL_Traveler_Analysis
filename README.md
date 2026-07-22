@@ -69,7 +69,8 @@ ORDER BY Total_perjalanan DESC;
 | Short Trip | 26 |
 | Long Trip | 7 |
 
-![Hasil klasifikasi kategori trip](./screenshots/12_case_groupby_summary.png)
+<img width="871" height="461" alt="image" src="https://github.com/user-attachments/assets/f86317e7-1ee9-4f71-bbe4-bf2b2a96ffb2" />
+
 
 ## Struktur Repo
 
